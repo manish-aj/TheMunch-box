@@ -29,8 +29,15 @@
           "settings": {
           }
         },
+        "custom_liquid_AkkTV7": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"toppings-section\">\n  <h3>Select Your Toppings<\/h3>\n  \n  <div class=\"topping-item\">\n    <img src=\"{{ 'topping1.jpg' | asset_url }}\" alt=\"Topping 1\">\n    <label for=\"topping1_quantity\">Topping 1<\/label>\n    <input type=\"number\" id=\"topping1_quantity\" name=\"topping1_quantity\" value=\"0\" min=\"0\">\n  <\/div>\n  \n  <div class=\"topping-item\">\n    <img src=\"{{ 'topping2.jpg' | asset_url }}\" alt=\"Topping 2\">\n    <label for=\"topping2_quantity\">Topping 2<\/label>\n    <input type=\"number\" id=\"topping2_quantity\" name=\"topping2_quantity\" value=\"0\" min=\"0\">\n  <\/div>\n  \n  <div class=\"topping-item\">\n    <img src=\"{{ 'topping3.jpg' | asset_url }}\" alt=\"Topping 3\">\n    <label for=\"topping3_quantity\">Topping 3<\/label>\n    <input type=\"number\" id=\"topping3_quantity\" name=\"topping3_quantity\" value=\"0\" min=\"0\">\n  <\/div>\n\n  <!-- Add more toppings as needed -->\n<\/div>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button",
             "swatch_shape": "circle"
@@ -59,12 +66,6 @@
             "share_label": "Share"
           }
         },
-        "custom_liquid_AkkTV7": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": ""
-          }
-        },
         "multivariants_bulk_order_app_block_product_ACrqmw": {
           "type": "shopify:\/\/apps\/multivariants-bulk-order\/blocks\/app-block-product\/e556349f-fd26-4006-9dd9-dcbf70aa55b3",
           "settings": {
@@ -76,12 +77,12 @@
         "vendor",
         "title",
         "price",
+        "custom_liquid_AkkTV7",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
         "share",
-        "custom_liquid_AkkTV7",
         "multivariants_bulk_order_app_block_product_ACrqmw"
       ],
       "settings": {
