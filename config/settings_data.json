@@ -224,7 +224,18 @@
       "scheme-ce705aef-73f7-4fa5-b52e-c001002fb149": {
         "settings": {
           "background": "#faf3d6",
-          "background_gradient": "linear-gradient(270deg, rgba(31, 178, 253, 1), rgba(241, 235, 226, 1) 100%)",
+          "background_gradient": "linear-gradient(270deg, rgba(15, 158, 230, 1), rgba(241, 235, 226, 1) 100%)",
+          "text": "#2e2a39",
+          "button": "#2e2a39",
+          "button_label": "#faf3d6",
+          "secondary_button_label": "#2e2a39",
+          "shadow": "#2e2a39"
+        }
+      },
+      "scheme-18389820-d35f-42d4-8816-63df71066180": {
+        "settings": {
+          "background": "#faf3d6",
+          "background_gradient": "linear-gradient(270deg, rgba(255, 192, 0, 1), rgba(248, 217, 124, 1) 100%)",
           "text": "#2e2a39",
           "button": "#2e2a39",
           "button_label": "#faf3d6",
