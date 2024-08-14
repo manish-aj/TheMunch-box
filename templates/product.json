@@ -32,14 +32,14 @@
         "custom_liquid_AkkTV7": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"toppings-section\" style=\"margin-top: 20px;\">\n  <h3 style=\"font-size: 18px; margin-bottom: 10px;\">Select Your Toppings<\/h3>\n  \n  <!-- Topping 1 -->\n  <div class=\"topping-item\" style=\"display: flex; align-items: center; margin-bottom: 10px;\">\n    <img src=\"{{ 'topping1.jpg' | asset_url }}\" alt=\"Topping 1\" style=\"width: 50px; height: 50px; margin-right: 10px;\">\n    <label for=\"topping1_quantity\" style=\"flex-grow: 1;\">Topping 1<\/label>\n    <div class=\"quantity-selector\" style=\"display: flex; align-items: center;\">\n      <button type=\"button\" onclick=\"decreaseQuantity('topping1_quantity')\" style=\"padding: 5px; font-size: 16px;\">-<\/button>\n      <input type=\"text\" id=\"topping1_quantity\" name=\"topping1_quantity\" value=\"0\" min=\"0\" readonly style=\"width: 50px; text-align: center; margin: 0 5px;\">\n      <button type=\"button\" onclick=\"increaseQuantity('topping1_quantity')\" style=\"padding: 5px; font-size: 16px;\">+<\/button>\n    <\/div>\n  <\/div>\n  \n  <!-- Topping 2 -->\n  <div class=\"topping-item\" style=\"display: flex; align-items: center; margin-bottom: 10px;\">\n    <img src=\"{{ 'topping2.jpg' | asset_url }}\" alt=\"Topping 2\" style=\"width: 50px; height: 50px; margin-right: 10px;\">\n    <label for=\"topping2_quantity\" style=\"flex-grow: 1;\">Topping 2<\/label>\n    <div class=\"quantity-selector\" style=\"display: flex; align-items: center;\">\n      <button type=\"button\" onclick=\"decreaseQuantity('topping2_quantity')\" style=\"padding: 5px; font-size: 16px;\">-<\/button>\n      <input type=\"text\" id=\"topping2_quantity\" name=\"topping2_quantity\" value=\"0\" min=\"0\" readonly style=\"width: 50px; text-align: center; margin: 0 5px;\">\n      <button type=\"button\" onclick=\"increaseQuantity('topping2_quantity')\" style=\"padding: 5px; font-size: 16px;\">+<\/button>\n    <\/div>\n  <\/div>\n  \n  <!-- Topping 3 -->\n  <div class=\"topping-item\" style=\"display: flex; align-items: center; margin-bottom: 10px;\">\n    <img src=\"{{ 'topping3.jpg' | asset_url }}\" alt=\"Topping 3\" style=\"width: 50px; height: 50px; margin-right: 10px;\">\n    <label for=\"topping3_quantity\" style=\"flex-grow: 1;\">Topping 3<\/label>\n    <div class=\"quantity-selector\" style=\"display: flex; align-items: center;\">\n      <button type=\"button\" onclick=\"decreaseQuantity('topping3_quantity')\" style=\"padding: 5px; font-size: 16px;\">-<\/button>\n      <input type=\"text\" id=\"topping3_quantity\" name=\"topping3_quantity\" value=\"0\" min=\"0\" readonly style=\"width: 50px; text-align: center; margin: 0 5px;\">\n      <button type=\"button\" onclick=\"increaseQuantity('topping3_quantity')\" style=\"padding: 5px; font-size: 16px;\">+<\/button>\n    <\/div>\n  <\/div>\n\n  <!-- Add more toppings as needed -->\n\n<\/div>"
+            "custom_liquid": "<div class=\"toppings-section\" style=\"margin-top: 20px;\">\n  <h3 style=\"font-size: 18px; margin-bottom: 10px;\">Select Your Snacks<\/h3>\n  \n  <!-- Topping 1 -->\n  <div class=\"topping-item\" style=\"display: flex; align-items: center; margin-bottom: 10px;\">\n    <img src=\"{{ 'topping1.jpg' | asset_url }}\" alt=\"Topping 1\" style=\"width: 50px; height: 50px; margin-right: 10px;\">\n    <label for=\"topping1_quantity\" style=\"flex-grow: 1;\">Topping 1<\/label>\n    <div class=\"quantity-selector\" style=\"display: flex; align-items: center; border: 1px solid #ddd; border-radius: 8px; padding: 5px;\">\n      <button type=\"button\" onclick=\"decreaseQuantity('topping1_quantity')\" style=\"background: none; border: none; font-size: 18px; padding: 0 10px;\">-<\/button>\n      <input type=\"text\" id=\"topping1_quantity\" name=\"topping1_quantity\" value=\"1\" min=\"0\" readonly style=\"width: 30px; text-align: center; border: none;\">\n      <button type=\"button\" onclick=\"increaseQuantity('topping1_quantity')\" style=\"background: none; border: none; font-size: 18px; padding: 0 10px;\">+<\/button>\n    <\/div>\n  <\/div>\n  \n  <!-- Topping 2 -->\n  <div class=\"topping-item\" style=\"display: flex; align-items: center; margin-bottom: 10px;\">\n    <img src=\"{{ 'topping2.jpg' | asset_url }}\" alt=\"Topping 2\" style=\"width: 50px; height: 50px; margin-right: 10px;\">\n    <label for=\"topping2_quantity\" style=\"flex-grow: 1;\">Topping 2<\/label>\n    <div class=\"quantity-selector\" style=\"display: flex; align-items: center; border: 1px solid #ddd; border-radius: 8px; padding: 5px;\">\n      <button type=\"button\" onclick=\"decreaseQuantity('topping2_quantity')\" style=\"background: none; border: none; font-size: 18px; padding: 0 10px;\">-<\/button>\n      <input type=\"text\" id=\"topping2_quantity\" name=\"topping2_quantity\" value=\"1\" min=\"0\" readonly style=\"width: 30px; text-align: center; border: none;\">\n      <button type=\"button\" onclick=\"increaseQuantity('topping2_quantity')\" style=\"background: none; border: none; font-size: 18px; padding: 0 10px;\">+<\/button>\n    <\/div>\n  <\/div>\n  \n  <!-- Topping 3 -->\n  <div class=\"topping-item\" style=\"display: flex; align-items: center; margin-bottom: 10px;\">\n    <img src=\"{{ 'topping3.jpg' | asset_url }}\" alt=\"Topping 3\" style=\"width: 50px; height: 50px; margin-right: 10px;\">\n    <label for=\"topping3_quantity\" style=\"flex-grow: 1;\">Topping 3<\/label>\n    <div class=\"quantity-selector\" style=\"display: flex; align-items: center; border: 1px solid #ddd; border-radius: 8px; padding: 5px;\">\n      <button type=\"button\" onclick=\"decreaseQuantity('topping3_quantity')\" style=\"background: none; border: none; font-size: 18px; padding: 0 10px;\">-<\/button>\n      <input type=\"text\" id=\"topping3_quantity\" name=\"topping3_quantity\" value=\"1\" min=\"0\" readonly style=\"width: 30px; text-align: center; border: none;\">\n      <button type=\"button\" onclick=\"increaseQuantity('topping3_quantity')\" style=\"background: none; border: none; font-size: 18px; padding: 0 10px;\">+<\/button>\n    <\/div>\n  <\/div>\n\n  <!-- Add more toppings as needed -->\n\n<\/div>"
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "disabled": true,
           "settings": {
-            "picker_type": "button",
+            "picker_type": "dropdown",
             "swatch_shape": "circle"
           }
         },
@@ -72,6 +72,12 @@
           "settings": {
             "multivariants_custom_css": ""
           }
+        },
+        "sku_9xQn7h": {
+          "type": "sku",
+          "settings": {
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -84,7 +90,8 @@
         "buy_buttons",
         "description",
         "share",
-        "multivariants_bulk_order_app_block_product_ACrqmw"
+        "multivariants_bulk_order_app_block_product_ACrqmw",
+        "sku_9xQn7h"
       ],
       "settings": {
         "enable_sticky_info": true,
