@@ -260,12 +260,11 @@
         },
         "row_kFUF3m": {
           "type": "row",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Bananachips.jpg",
             "caption": "",
             "heading": "Plantain Chips",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>A classic Indian snack made from thinly sliced raw plantains, seasoned with salt, and deep-fried to a golden crisp. These crunchy, savory chips are a popular treat, offering a delicious alternative to regular potato chips. Perfect for snacking any time, Plantain Chips bring a taste of tradition and simplicity to your palate.<\/p>",
             "button_label": "",
             "button_link": ""
           }
