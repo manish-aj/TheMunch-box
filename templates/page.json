@@ -285,7 +285,6 @@
         "row_6c3hzQ",
         "row_kFUF3m"
       ],
-      "disabled": true,
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
@@ -304,7 +303,6 @@
     },
     "custom_liquid_pV8E4L": {
       "type": "custom-liquid",
-      "disabled": true,
       "custom_css": [
         "h1 {font-size: 48px;}",
         "p {text-align: left; font-size: 26px;}"
@@ -358,7 +356,6 @@
         "row_CPb8ia",
         "row_xCFwpw"
       ],
-      "disabled": true,
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
@@ -377,8 +374,9 @@
     },
     "contact_form_PxRwAX": {
       "type": "contact-form",
+      "disabled": true,
       "settings": {
-        "heading": "Contact form",
+        "heading": "",
         "heading_size": "h1",
         "color_scheme": "",
         "padding_top": 36,
