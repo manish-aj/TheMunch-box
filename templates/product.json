@@ -100,7 +100,7 @@
         "text_ywMNYW": {
           "type": "text",
           "settings": {
-            "text": "<strong>For custom mix-n-match, include a note in special instructions during checkout<\/strong>",
+            "text": "<strong>If you need custom selection for 9 munchies, please list the items from Munchies info tab in special instructions at checkout.<\/strong>",
             "text_style": "body"
           }
         }
