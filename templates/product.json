@@ -100,7 +100,7 @@
         "text_ywMNYW": {
           "type": "text",
           "settings": {
-            "text": "<strong>If you need custom selection for 9 munchies, please list the items from Munchies info tab in special instructions at checkout.<\/strong>",
+            "text": "<strong>You may choose and list 9 munches and sweets based on the variant you selected from our Munchies info tab in the special instructions box at checkout.  If nothing is listed, you will receive our selection.<\/strong>",
             "text_style": "body"
           }
         }
