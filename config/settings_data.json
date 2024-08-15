@@ -223,8 +223,8 @@
           "background": "#fdfbf7",
           "background_gradient": "linear-gradient(180deg, rgba(240, 244, 236, 1), rgba(241, 235, 226, 1) 100%)",
           "text": "#2e2a39",
-          "button": "#9b046f",
-          "button_label": "#fdfbf7",
+          "button": "#ffc000",
+          "button_label": "#2e2a39",
           "secondary_button_label": "#2e2a39",
           "shadow": "#2e2a39"
         }
