@@ -203,6 +203,7 @@
         },
         "row_7pTETm": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2024-08-14_at_11.24.51_PM.png",
             "caption": "",
@@ -307,7 +308,7 @@
         "h2 {text-align: right; font-size: 32px;}"
       ],
       "settings": {
-        "custom_liquid": "<h1>{{ \"Surprise Sweets\" }}<\/h1>",
+        "custom_liquid": "<h1>{{ \"       Surprise Sweets\" }}<\/h1>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -319,38 +320,41 @@
         "row_tTWanA": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "row_xCFwpw": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-08-14_at_11.24.51_PM.png",
+            "caption": "",
+            "heading": "Aresalu",
+            "text": "<p>A traditional South Indian sweet made from rice flour and jaggery, deep-fried to a golden brown and garnished with sesame seeds. Soft and chewy with a rich, caramel-like flavor, Ariselu is a festive favorite, especially during celebrations like Sankranti. This sweet treat embodies the warmth and richness of Indian culinary heritage.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         },
         "row_CPb8ia": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
+            "image": "shopify:\/\/shop_images\/Screenshot2022-11-12140033_1.webp",
+            "caption": "",
+            "heading": "Mysore Paak",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_xCFwpw": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Adyar_Ananda_Bhavan_Mothi_Laddu.jpg",
+            "caption": "",
+            "heading": "Motichoor Laddu",
+            "text": "<p>A popular Indian sweet made from tiny, golden gram flour pearls, fried and soaked in sugar syrup, then shaped into soft, fragrant balls. These melt-in-the-mouth ladoos are rich, sweet, and aromatic, often garnished with nuts or silver leaf. A festive favorite, Motichoor Ladoo embodies the joy and sweetness of celebrations in every bite.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
         "row_tTWanA",
-        "row_xCFwpw",
-        "row_CPb8ia"
+        "row_CPb8ia",
+        "row_xCFwpw"
       ],
       "settings": {
         "image_height": "medium",
