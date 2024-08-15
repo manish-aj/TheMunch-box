@@ -301,12 +301,69 @@
         "padding_bottom": 36
       }
     },
-    "page_w6cVUq": {
-      "type": "page",
+    "custom_liquid_pV8E4L": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "h2 {font-size: 24px;}"
+      ],
       "settings": {
-        "page": "",
-        "heading_size": "h1",
+        "custom_liquid": "Surprise sweets",
         "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_4xaarD": {
+      "type": "multirow",
+      "blocks": {
+        "row_tTWanA": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_xCFwpw": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_CPb8ia": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_tTWanA",
+        "row_xCFwpw",
+        "row_CPb8ia"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -317,6 +374,7 @@
     "slideshow_grbein",
     "image_with_text_LkJTCL",
     "multirow_8qky7V",
-    "page_w6cVUq"
+    "custom_liquid_pV8E4L",
+    "multirow_4xaarD"
   ]
 }
