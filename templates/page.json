@@ -141,7 +141,7 @@
             "image": "shopify:\/\/shop_images\/KaramSakinalu1-800x800.jpg",
             "caption": "",
             "heading": "Sakinalu",
-            "text": "<p>Sakinalu are traditional South Indian spiraled snacks made from rice flour, sesame seeds, and ajwain (carom seeds). These crunchy, deep-fried delicacies are a festive favorite, especially during Sankranti. With their unique shape and savory flavor, Sakinalu offer a taste of nostalgia and heritage in every bite.<\/p>",
+            "text": "<p>A traditional South Indian spiraled snacks made from rice flour, sesame seeds, and ajwain (carom seeds). These crunchy, deep-fried delicacies are a festive favorite, especially during Sankranti. With their unique shape and savory flavor, Sakinalu offer a taste of nostalgia and heritage in every bite.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -163,7 +163,7 @@
             "image": "shopify:\/\/shop_images\/Mixture.jpg",
             "caption": "",
             "heading": "Mixture",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>A popular Indian snack, a delightful medley of crispy sev, roasted nuts, lentils, and spiced rice flakes. This crunchy, savory treat combines a variety of textures and flavors in every handful, making it a perfect companion for tea time or a festive gathering. Enjoy the bold and vibrant taste of Mixture, a snack that brings together the best of Indian snacking traditions.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -173,8 +173,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Chekodilu.png",
             "caption": "",
-            "heading": "Chekodilu",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "heading": "Chegodi",
+            "text": "<p>Also known as Chakli, is a crispy, spiral-shaped South Indian snack made from rice flour, spices, and sesame seeds. Deep-fried to golden perfection, these savory treats are crunchy with a delightful hint of spice. Chegodi is a traditional favorite, perfect for snacking any time of the day, offering a taste of home with every bite.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -185,7 +185,7 @@
             "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.28.23PM.png",
             "caption": "",
             "heading": "Masala Peanuts",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>A spicy, crunchy Indian snack made by coating peanuts in a flavorful blend of gram flour, rice flour, and aromatic spices. Deep-fried to a crispy finish, these peanuts are bursting with bold flavors, making them a perfect accompaniment to tea or a festive gathering. Enjoy the irresistible taste of Masala Peanuts, a snack that packs a punch with every bite.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -196,18 +196,7 @@
             "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.44.11PM.png",
             "caption": "",
             "heading": "Kara Boondi",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_mAy7AE": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Gavvalu-copy-scaled-600x599.webp",
-            "caption": "",
-            "heading": "Gavvalu",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>A popular Indian snack featuring tiny, crispy gram flour droplets seasoned with spices. These savory, crunchy morsels are deep-fried to perfection, offering a burst of flavor in every bite. Perfect as a standalone snack or as a topping for dishes like raita, Kara Boondi brings a spicy, satisfying crunch to your snacking experience.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -218,7 +207,18 @@
             "image": "shopify:\/\/shop_images\/Screenshot_2024-08-14_at_11.24.51_PM.png",
             "caption": "",
             "heading": "Aresalu",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>A traditional South Indian sweet made from rice flour and jaggery, deep-fried to a golden brown and garnished with sesame seeds. Soft and chewy with a rich, caramel-like flavor, Ariselu is a festive favorite, especially during celebrations like Sankranti. This sweet treat embodies the warmth and richness of Indian culinary heritage.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_mAy7AE": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gavvalu-copy-scaled-600x599.webp",
+            "caption": "",
+            "heading": "Gavvalu",
+            "text": "<p>Bellam Gavvalu is a traditional  Indian sweet made from rice flour dough shaped into tiny shells and coated with a rich jaggery syrup. These sweet, crunchy bites are a delightful blend of texture and flavor, offering a taste of nostalgia with every bite. Perfect for festivals and special occasions, Bellam Gavvalu is a beloved treat that captures the essence of Indian sweetness.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -229,7 +229,7 @@
             "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.32.03PM.png",
             "caption": "",
             "heading": "Kara Pusa",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>A spicy Indian snack made from a blend of gram flour and spices, shaped into thin, crunchy strands. Deep-fried to a perfect crisp, these savory bites offer a bold, fiery flavor that’s irresistible. Kara Pusa is a popular choice for snacking, adding a kick of spice to your tea time or festive celebrations.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -240,7 +240,7 @@
             "image": "shopify:\/\/shop_images\/Screenshot_2024-08-14_at_11.39.10_PM.png",
             "caption": "",
             "heading": "Osmania Biscuits",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>A beloved Hyderabadi snack, known for their buttery, crumbly texture and subtly sweet, slightly salty flavor. These biscuits are perfect for enjoying with a cup of tea, offering a taste of nostalgia and a comforting treat that has been cherished for generations. A true Hyderabadi classic, Osmania Biscuits are a must-try for anyone seeking the authentic flavors of the region.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -278,8 +278,8 @@
         "row_pXNk4T",
         "row_ndmtcF",
         "row_CGMbNn",
-        "row_mAy7AE",
         "row_7pTETm",
+        "row_mAy7AE",
         "row_8tCx7i",
         "row_RFw66H",
         "row_6c3hzQ",
