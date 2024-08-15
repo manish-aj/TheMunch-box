@@ -135,84 +135,103 @@
         "row_NUyCTA": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/KaramSakinalu1-800x800.jpg",
+            "caption": "",
+            "heading": "Sakinalu",
+            "text": "<p>Sakinalu are traditional South Indian spiraled snacks made from rice flour, sesame seeds, and ajwain (carom seeds). These crunchy, deep-fried delicacies are a festive favorite, especially during Sankranti. With their unique shape and savory flavor, Sakinalu offer a taste of nostalgia and heritage in every bite.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         },
         "row_mRMrze": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
+            "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.19.41PM.png",
+            "caption": "",
+            "heading": "Jantikalu",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
         "row_jLBe9x": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
+            "image": "shopify:\/\/shop_images\/Mixture.jpg",
+            "caption": "",
+            "heading": "Mixture",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
         "row_pXNk4T": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
+            "image": "shopify:\/\/shop_images\/Chekodilu.png",
+            "caption": "",
+            "heading": "Chekodilu",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
         "row_ndmtcF": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
+            "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.28.23PM.png",
+            "caption": "",
+            "heading": "Masala Peanuts",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
         "row_CGMbNn": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
+            "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.44.11PM.png",
+            "caption": "",
+            "heading": "Kara Boondi",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
-        "row_kFUF3m": {
+        "row_7pTETm": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-08-14_at_11.24.51_PM.png",
+            "caption": "",
+            "heading": "Aresalu",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
         "row_6c3hzQ": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
+            "image": "shopify:\/\/shop_images\/ajmerikalakandabhiruchisweets_medium_0402621.webp",
+            "caption": "",
+            "heading": "Kalakand",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
-        "row_7pTETm": {
+        "row_kFUF3m": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bananachips.jpg",
+            "caption": "",
+            "heading": "Plantain Chips",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_mAy7AE": {
           "type": "row",
           "settings": {
             "caption": "Caption",
@@ -231,9 +250,10 @@
         "row_pXNk4T",
         "row_ndmtcF",
         "row_CGMbNn",
-        "row_kFUF3m",
+        "row_7pTETm",
         "row_6c3hzQ",
-        "row_7pTETm"
+        "row_kFUF3m",
+        "row_mAy7AE"
       ],
       "settings": {
         "image_height": "medium",
