@@ -31,15 +31,13 @@
         },
         "text_PRKqNN": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<em><strong>Chekkalu, Sakinalu, Murukkulu, Masala Peanuts, Kara boondi, Mixture, Kara pusa, Plantain chips<\/strong><\/em>",
+            "text": "<em><strong>Chekkalu, Sakinalu, Murukkulu, Masala Peanuts, Boondi, Mixture, Gauvalu<\/strong><\/em>",
             "text_style": "body"
           }
         },
         "text_HkfUH6": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<em><strong>Aresalu, Kalakand<\/strong><\/em>",
             "text_style": "body"
