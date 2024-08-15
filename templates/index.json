@@ -50,6 +50,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
@@ -75,10 +76,53 @@
         "padding_top": 56,
         "padding_bottom": 68
       }
+    },
+    "rich_text_KckiUU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LP3Bax": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h1"
+          }
+        },
+        "text_dmDyg4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Welcome to a Taste of Tradition, Delivered to Your Doorstep.<br\/><br\/>With our Munch Box, we believe in the magic of tradition, the comfort of nostalgia, and the warmth of home-cooked goodness. Our journey began with a simple yet profound idea: to bring the authentic flavors of South Indian kitchens to you, wherever you are.<br\/><br\/>Our snacks are not just food; they are a celebration of the rich culinary heritage passed down through generations. Each bite takes you back to a time when life was simpler, and the aroma of freshly made snacks filled the air. Made lovingly in the kitchens of Indian homes, our snacks are a reminder of the flavors that defined our childhood—crunchy, flavorful, and made with ingredients you can trust.<br\/><br\/>We take pride in offering you snacks made the way they should be—pure, natural, and free from any chemicals or harmful substances. Every ingredient we use is organic, sourced from trusted farms, ensuring that you get nothing but the best. Our snacks are made with the same care and attention to detail as your grandmother would have, with recipes that have stood the test of time.<br\/><br\/>Our product offerings are simple, just like the old days—fixed items that capture the essence of traditional South Indian snacks. The only choice you need to make is how much of this deliciousness you want to bring home. We’ve done the hard part: curating a box of goodies that we know you’ll love, so all that’s left is for you to indulge.<br\/><br\/>Whether you’re longing for a taste of home or exploring the rich flavors of South Indian cuisine for the first time, [Your Brand Name] is here to offer you an authentic experience, one that transports you to the heart of South India with every bite.<br\/><br\/>So, why wait? Rediscover the joy of traditional South Indian snacks—fresh from our kitchen to yours.<\/em><\/p>"
+          }
+        },
+        "button_VLAx9G": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LP3Bax",
+        "text_dmDyg4",
+        "button_VLAx9G"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "image-with-text",
-    "featured-collection"
+    "featured-collection",
+    "rich_text_KckiUU"
   ]
 }
