@@ -1,0 +1,384 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h2 {font-size: 24px;}"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "slideshow_grbein": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_QWBcL6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chekkalu-3.jpg",
+            "heading": "Chekkalu",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_NJVHYr": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_QWBcL6",
+        "slide_NJVHYr"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_with_text_LkJTCL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GaLzQa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_iNkxHK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_WyHPEQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GaLzQa",
+        "text_iNkxHK",
+        "button_WyHPEQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_8qky7V": {
+      "type": "multirow",
+      "blocks": {
+        "row_AKUYzK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chekkalu-3.jpg",
+            "caption": "",
+            "heading": "Chekkalu",
+            "text": "<p>A crispy, rice flour-based cracker loaded with lentils, cumin and spices, Chekkalu offers a satisfying crunch and a burst of South Indian flavors. Also known as Nipattu or Thattai.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_NUyCTA": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KaramSakinalu1-800x800.jpg",
+            "caption": "",
+            "heading": "Sakinalu",
+            "text": "<p>A traditional South Indian spiraled snacks made from rice flour, sesame seeds, and ajwain (carom seeds). These crunchy, deep-fried delicacies are a festive favorite, especially during Sankranti. With their unique shape and savory flavor, Sakinalu offer a taste of nostalgia and heritage in every bite.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_mRMrze": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.19.41PM.png",
+            "caption": "",
+            "heading": "Jantikalu",
+            "text": "<p>A beloved South Indian snack, are crispy, deep-fried spirals made from a blend of rice flour, gram flour (besan), and urad dal. Flavored with ajwain and a hint of salt, these savory treats are perfect for any occasion. Enjoy the rich taste and satisfying crunch of Janthikalu, a snack that captures the essence of traditional Indian flavors<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_jLBe9x": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mixture.jpg",
+            "caption": "",
+            "heading": "Mixture",
+            "text": "<p>A popular Indian snack, a delightful medley of crispy sev, roasted nuts, lentils, and spiced rice flakes. This crunchy, savory treat combines a variety of textures and flavors in every handful, making it a perfect companion for tea time or a festive gathering. Enjoy the bold and vibrant taste of Mixture, a snack that brings together the best of Indian snacking traditions.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_pXNk4T": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chekodilu.png",
+            "caption": "",
+            "heading": "Chegodi",
+            "text": "<p>Also known as Chakli, is a crispy, spiral-shaped South Indian snack made from rice flour, spices, and sesame seeds. Deep-fried to golden perfection, these savory treats are crunchy with a delightful hint of spice. Chegodi is a traditional favorite, perfect for snacking any time of the day, offering a taste of home with every bite.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_ndmtcF": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.28.23PM.png",
+            "caption": "",
+            "heading": "Masala Peanuts",
+            "text": "<p>A spicy, crunchy Indian snack made by coating peanuts in a flavorful blend of gram flour, rice flour, and aromatic spices. Deep-fried to a crispy finish, these peanuts are bursting with bold flavors, making them a perfect accompaniment to tea or a festive gathering. Enjoy the irresistible taste of Masala Peanuts, a snack that packs a punch with every bite.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_CGMbNn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.44.11PM.png",
+            "caption": "",
+            "heading": "Kara Boondi",
+            "text": "<p>A popular Indian snack featuring tiny, crispy gram flour droplets seasoned with spices. These savory, crunchy morsels are deep-fried to perfection, offering a burst of flavor in every bite. Perfect as a standalone snack or as a topping for dishes like raita, Kara Boondi brings a spicy, satisfying crunch to your snacking experience.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_7pTETm": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-08-14_at_11.24.51_PM.png",
+            "caption": "",
+            "heading": "Aresalu",
+            "text": "<p>A traditional South Indian sweet made from rice flour and jaggery, deep-fried to a golden brown and garnished with sesame seeds. Soft and chewy with a rich, caramel-like flavor, Ariselu is a festive favorite, especially during celebrations like Sankranti. This sweet treat embodies the warmth and richness of Indian culinary heritage.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_mAy7AE": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gavvalu-copy-scaled-600x599.webp",
+            "caption": "",
+            "heading": "Gavvalu",
+            "text": "<p>Bellam Gavvalu is a traditional  Indian sweet made from rice flour dough shaped into tiny shells and coated with a rich jaggery syrup. These sweet, crunchy bites are a delightful blend of texture and flavor, offering a taste of nostalgia with every bite. Perfect for festivals and special occasions, Bellam Gavvalu is a beloved treat that captures the essence of Indian sweetness.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_8tCx7i": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.32.03PM.png",
+            "caption": "",
+            "heading": "Kara Pusa",
+            "text": "<p>A spicy Indian snack made from a blend of gram flour and spices, shaped into thin, crunchy strands. Deep-fried to a perfect crisp, these savory bites offer a bold, fiery flavor that’s irresistible. Kara Pusa is a popular choice for snacking, adding a kick of spice to your tea time or festive celebrations.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_RFw66H": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-08-14_at_11.39.10_PM.png",
+            "caption": "",
+            "heading": "Osmania Biscuits",
+            "text": "<p>A beloved Hyderabadi snack, known for their buttery, crumbly texture and subtly sweet, slightly salty flavor. These biscuits are perfect for enjoying with a cup of tea, offering a taste of nostalgia and a comforting treat that has been cherished for generations. A true Hyderabadi classic, Osmania Biscuits are a must-try for anyone seeking the authentic flavors of the region.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_6c3hzQ": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ajmerikalakandabhiruchisweets_medium_0402621.webp",
+            "caption": "",
+            "heading": "Kalakand",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_kFUF3m": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bananachips.jpg",
+            "caption": "",
+            "heading": "Plantain Chips",
+            "text": "<p>A classic Indian snack made from thinly sliced raw plantains, seasoned with salt, and deep-fried to a golden crisp. These crunchy, savory chips are a popular treat, offering a delicious alternative to regular potato chips. Perfect for snacking any time, Plantain Chips bring a taste of tradition and simplicity to your palate.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_AKUYzK",
+        "row_NUyCTA",
+        "row_mRMrze",
+        "row_jLBe9x",
+        "row_pXNk4T",
+        "row_ndmtcF",
+        "row_CGMbNn",
+        "row_7pTETm",
+        "row_mAy7AE",
+        "row_8tCx7i",
+        "row_RFw66H",
+        "row_6c3hzQ",
+        "row_kFUF3m"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_pV8E4L": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "h1 {font-size: 48px;}",
+        "p {text-align: left; font-size: 26px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<h1>{{ \"       Surprise Sweets\" }}<\/h1>\n<p class=\"tagline\">{{ \"Each Munch box includes a random sweet from our surprise sweet collection.\" }}<\/p>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multirow_4xaarD": {
+      "type": "multirow",
+      "blocks": {
+        "row_tTWanA": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-08-14_at_11.24.51_PM.png",
+            "caption": "",
+            "heading": "Aresalu",
+            "text": "<p>A traditional South Indian sweet made from rice flour and jaggery, deep-fried to a golden brown and garnished with sesame seeds. Soft and chewy with a rich, caramel-like flavor, Ariselu is a festive favorite, especially during celebrations like Sankranti. This sweet treat embodies the warmth and richness of Indian culinary heritage.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_CPb8ia": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot2022-11-12140033_1.webp",
+            "caption": "",
+            "heading": "Mysore Paak",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_xCFwpw": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Adyar_Ananda_Bhavan_Mothi_Laddu.jpg",
+            "caption": "",
+            "heading": "Motichoor Laddu",
+            "text": "<p>A popular Indian sweet made from tiny, golden gram flour pearls, fried and soaked in sugar syrup, then shaped into soft, fragrant balls. These melt-in-the-mouth ladoos are rich, sweet, and aromatic, often garnished with nuts or silver leaf. A festive favorite, Motichoor Ladoo embodies the joy and sweetness of celebrations in every bite.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_tTWanA",
+        "row_CPb8ia",
+        "row_xCFwpw"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_grbein",
+    "image_with_text_LkJTCL",
+    "multirow_8qky7V",
+    "custom_liquid_pV8E4L",
+    "multirow_4xaarD"
+  ]
+}
