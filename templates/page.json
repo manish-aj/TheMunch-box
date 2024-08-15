@@ -12,10 +12,10 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        "h2 {font-size : 24px;}"
+        "h2 {font-size: 24px;}"
       ],
       "settings": {
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -152,7 +152,7 @@
             "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.19.41PM.png",
             "caption": "",
             "heading": "Jantikalu",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>A beloved South Indian snack, are crispy, deep-fried spirals made from a blend of rice flour, gram flour (besan), and urad dal. Flavored with ajwain and a hint of salt, these savory treats are perfect for any occasion. Enjoy the rich taste and satisfying crunch of Janthikalu, a snack that captures the essence of traditional Indian flavors<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -201,6 +201,17 @@
             "button_link": ""
           }
         },
+        "row_mAy7AE": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gavvalu-copy-scaled-600x599.webp",
+            "caption": "",
+            "heading": "Gavvalu",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
         "row_7pTETm": {
           "type": "row",
           "settings": {
@@ -212,8 +223,31 @@
             "button_link": ""
           }
         },
+        "row_8tCx7i": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot2024-08-05at12.32.03PM.png",
+            "caption": "",
+            "heading": "Kara Pusa",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_RFw66H": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-08-14_at_11.39.10_PM.png",
+            "caption": "",
+            "heading": "Osmania Biscuits",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
         "row_6c3hzQ": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ajmerikalakandabhiruchisweets_medium_0402621.webp",
             "caption": "",
@@ -225,22 +259,13 @@
         },
         "row_kFUF3m": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Bananachips.jpg",
             "caption": "",
             "heading": "Plantain Chips",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_mAy7AE": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
             "button_link": ""
           }
         }
@@ -253,10 +278,12 @@
         "row_pXNk4T",
         "row_ndmtcF",
         "row_CGMbNn",
+        "row_mAy7AE",
         "row_7pTETm",
+        "row_8tCx7i",
+        "row_RFw66H",
         "row_6c3hzQ",
-        "row_kFUF3m",
-        "row_mAy7AE"
+        "row_kFUF3m"
       ],
       "settings": {
         "image_height": "medium",
