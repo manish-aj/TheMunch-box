@@ -18,6 +18,7 @@
     },
     "featured_collection_A98znJ": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -43,10 +44,21 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "contact_form_3BLgyC": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "featured_collection_A98znJ"
+    "featured_collection_A98znJ",
+    "contact_form_3BLgyC"
   ]
 }
