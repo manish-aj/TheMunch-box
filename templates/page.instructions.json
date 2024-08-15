@@ -406,7 +406,7 @@
             "image": "shopify:\/\/shop_images\/Select-Variant.jpg",
             "caption": "",
             "heading": "Step 2: Select your Munchies",
-            "text": "<p><\/p><ul><li>Pick your desired variant from the available options. <\/li><li>If you have specific preferences for certain items or variants, please use the special instructions box in the \"View Cart\" tab to let us know. <\/li><li>Don’t forget to check the note provided while adding the variants.<\/li><\/ul>",
+            "text": "<p><\/p><ul><li>Pick your desired variant from the available options. <\/li><li>In case you have specific preferences for particular items or variants, Add the box to Cart and utilize the special instructions box in the 'View Cart' tab to let us know.<\/li><li>Don’t forget to check the note provided while select the variants.<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -414,8 +414,29 @@
         "row_BeQrNH": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
+            "image": "shopify:\/\/shop_images\/Review-and-checkout.jpg",
+            "caption": "",
+            "heading": "Step 3: Review and Checkout",
+            "text": "<ul><li>Carefully verify and review your order details, including the selected variant and any specific instructions you’ve provided. <\/li><li>Once you’re satisfied with everything, proceed to checkout to make your payment.<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_4AYTGt": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Step 4: Await Delivery",
+            "text": "<p>Await Delivery while we process your Order<\/p><ul><li>Once your order is processed, it will take 5-10 business days to arrive at your doorstep (2 days for preparation of items and 3-5 days for shipping). <\/li><li>You’ll receive tracking information once the order is on its way. Sit back, relax, and get ready to enjoy your delicious snacks in just a few days!<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_CipGkF": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Step 5: Yayyyy",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": ""
@@ -425,7 +446,9 @@
       "block_order": [
         "row_xfXUNf",
         "row_pMdDRA",
-        "row_BeQrNH"
+        "row_BeQrNH",
+        "row_4AYTGt",
+        "row_CipGkF"
       ],
       "settings": {
         "image_height": "medium",
