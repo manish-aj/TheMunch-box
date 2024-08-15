@@ -304,13 +304,13 @@
     "custom_liquid_pV8E4L": {
       "type": "custom-liquid",
       "custom_css": [
-        "h2 {font-size: 24px;}"
+        "h2 {text-align: right; font-size: 32px;}"
       ],
       "settings": {
-        "custom_liquid": "Surprise sweets",
+        "custom_liquid": "<h1>{{ \"Surprise Sweets\" }}<\/h1>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multirow_4xaarD": {
