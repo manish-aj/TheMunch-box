@@ -56,7 +56,7 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "dropdown",
-            "swatch_shape": "circle"
+            "swatch_shape": "none"
           }
         },
         "quantity_selector": {
@@ -96,6 +96,13 @@
           "settings": {
             "text_style": "body"
           }
+        },
+        "text_ywMNYW": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>For custom mix-n-match, include a note in special instructions during checkout<\/strong>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -111,7 +118,8 @@
         "description",
         "share",
         "multivariants_bulk_order_app_block_product_ACrqmw",
-        "sku_9xQn7h"
+        "sku_9xQn7h",
+        "text_ywMNYW"
       ],
       "settings": {
         "enable_sticky_info": true,
