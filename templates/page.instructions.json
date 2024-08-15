@@ -285,6 +285,7 @@
         "row_6c3hzQ",
         "row_kFUF3m"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
@@ -303,6 +304,7 @@
     },
     "custom_liquid_pV8E4L": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         "h1 {font-size: 48px;}",
         "p {text-align: left; font-size: 26px;}"
@@ -356,6 +358,7 @@
         "row_CPb8ia",
         "row_xCFwpw"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
@@ -382,6 +385,63 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multirow_fGGirX": {
+      "type": "multirow",
+      "blocks": {
+        "row_xfXUNf": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Select-your-box.jpg",
+            "caption": "",
+            "heading": "Step 1: Choose your box.",
+            "text": "<p>Choose between 5kg and 10kg munch boxes. <\/p><ul><li>5 Kg suits individuals or small families.<\/li><li>10 Kg is better for larger families or gatherings.<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_pMdDRA": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Select-Variant.jpg",
+            "caption": "",
+            "heading": "Step 2: Select your Munchies",
+            "text": "<p><\/p><ul><li>Pick your desired variant from the available options. <\/li><li>If you have specific preferences for certain items or variants, please use the special instructions box in the \"View Cart\" tab to let us know. <\/li><li>Don’t forget to check the note provided while adding the variants.<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_BeQrNH": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_xfXUNf",
+        "row_pMdDRA",
+        "row_BeQrNH"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -391,6 +451,7 @@
     "multirow_8qky7V",
     "custom_liquid_pV8E4L",
     "multirow_4xaarD",
-    "contact_form_PxRwAX"
+    "contact_form_PxRwAX",
+    "multirow_fGGirX"
   ]
 }
