@@ -220,7 +220,7 @@
       },
       "scheme-16f97c1d-a9d9-46ea-ae0b-d819183ee68e": {
         "settings": {
-          "background": "#fdfbf7",
+          "background": "#ffc000",
           "background_gradient": "linear-gradient(180deg, rgba(240, 244, 236, 1), rgba(241, 235, 226, 1) 100%)",
           "text": "#2e2a39",
           "button": "#ffc000",
