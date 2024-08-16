@@ -100,7 +100,7 @@
         "text_ywMNYW": {
           "type": "text",
           "settings": {
-            "text": "<strong>Note: You may choose and list 9 munches based on the variant you selected from our Munchies info tab in the special instructions box in your cart.  If nothing is listed, you will receive our selection.<\/strong>",
+            "text": "<strong>Note 1: You may choose and list 9 munchies and 1 Sweet based on the variant you selected from our Munchies info tab in the special instructions box in your cart.  If nothing is listed, you will receive our selection.<\/strong>",
             "text_style": "body"
           }
         }
