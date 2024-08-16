@@ -9,6 +9,48 @@
 */
 {
   "sections": {
+    "rich_text_Gqqr9K": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dFwqJk": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_XdA6zd": {
+          "type": "text",
+          "settings": {
+            "text": "<h5><em><strong>For special requests and custom orders, please reach out to us using our contact form.<\/strong><\/em><\/h5>"
+          }
+        },
+        "button_DEL3N7": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dFwqJk",
+        "text_XdA6zd",
+        "button_DEL3N7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "contact_form_3BLgyC": {
       "type": "contact-form",
       "settings": {
@@ -57,6 +99,7 @@
     }
   },
   "order": [
+    "rich_text_Gqqr9K",
     "contact_form_3BLgyC",
     "main",
     "featured_collection_A98znJ"
