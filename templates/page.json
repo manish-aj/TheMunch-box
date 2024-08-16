@@ -304,8 +304,8 @@
     "custom_liquid_pV8E4L": {
       "type": "custom-liquid",
       "custom_css": [
-        "h1 {font-size: 48px;}",
-        "p {text-align: left; font-size: 26px;}"
+        "h1 {margin-left: 50px; font-size: 48px;}",
+        "p {margin-left: 50px; font-size: 26px;}"
       ],
       "settings": {
         "custom_liquid": "<h1>{{ \"       Surprise Sweets\" }}<\/h1>\n<p class=\"tagline\">{{ \"Each Munch box includes a random sweet from our surprise sweet collection.\" }}<\/p>",
