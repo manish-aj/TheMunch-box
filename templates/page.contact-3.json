@@ -21,6 +21,7 @@
         },
         "text_XdA6zd": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<h5><em><strong>For special requests and custom orders, please reach out to us using our contact form.<\/strong><\/em><\/h5>"
           }
@@ -42,6 +43,7 @@
         "text_XdA6zd",
         "button_DEL3N7"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
