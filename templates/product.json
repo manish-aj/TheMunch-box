@@ -99,6 +99,7 @@
         },
         "text_ywMNYW": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Note 1: You may choose and list 9 munchies and 1 Sweet based on the variant you selected from our Munchies info tab in the special instructions box in your cart.  If nothing is listed, you will receive our selection.<\/strong>",
             "text_style": "body"
@@ -106,6 +107,7 @@
         },
         "text_iNFrLh": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Note 2: If the chosen sweet is Putharekulu, you will receive 10 pieces instead of 500gms and 20 pieces instead of 1kg.<\/strong>",
             "text_style": "body"
