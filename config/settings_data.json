@@ -182,13 +182,13 @@
       },
       "16237003337219470499": {
         "type": "shopify:\/\/apps\/appstle-loyalty\/blocks\/appstle-loyalty\/1886c0f8-77b6-4a85-af11-b43cc17ae1c1",
-        "disabled": true,
+        "disabled": false,
         "settings": {
         }
       },
       "13115749693783828969": {
         "type": "shopify:\/\/apps\/appstle-loyalty\/blocks\/appstle-review-helper\/1886c0f8-77b6-4a85-af11-b43cc17ae1c1",
-        "disabled": true,
+        "disabled": false,
         "settings": {
         }
       }
