@@ -13,14 +13,60 @@
       "type": "main-page",
       "settings": {
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_CeJ6i7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BXEUb6": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_3FNhLp": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_k7PxX9": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BXEUb6",
+        "text_3FNhLp",
+        "button_k7PxX9"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "featured_collection_A98znJ": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "Snack Attack: Indian Flavor Chest!",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -40,8 +86,50 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_XeNdWR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NDFWQe": {
+          "type": "heading",
+          "settings": {
+            "heading": "More curated boxes - Regional and International",
+            "heading_size": "h2"
+          }
+        },
+        "text_VCXiJd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Coming soon..<\/p>"
+          }
+        },
+        "button_xqk49w": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NDFWQe",
+        "text_VCXiJd",
+        "button_xqk49w"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "rich_text_6MhKRP": {
@@ -89,7 +177,9 @@
   },
   "order": [
     "main",
+    "rich_text_CeJ6i7",
     "featured_collection_A98znJ",
+    "rich_text_XeNdWR",
     "rich_text_6MhKRP"
   ]
 }
