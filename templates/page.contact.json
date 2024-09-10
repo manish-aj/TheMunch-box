@@ -96,14 +96,8 @@
         "heading_NDFWQe": {
           "type": "heading",
           "settings": {
-            "heading": "More curated boxes - Regional and International",
+            "heading": "<em><strong>Coming soon:<\/strong><\/em> <em>A world of flavors with new Regional and International curated boxes!<\/em>",
             "heading_size": "h2"
-          }
-        },
-        "text_VCXiJd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Coming soon..<\/p>"
           }
         },
         "button_xqk49w": {
@@ -120,16 +114,15 @@
       },
       "block_order": [
         "heading_NDFWQe",
-        "text_VCXiJd",
         "button_xqk49w"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_6MhKRP": {
@@ -170,7 +163,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 28,
         "padding_bottom": 52
       }
     }
