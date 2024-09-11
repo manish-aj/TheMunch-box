@@ -395,7 +395,7 @@
             "image": "shopify:\/\/shop_images\/Select-your-box.jpg",
             "caption": "",
             "heading": "Step 1: Choose your box.",
-            "text": "<p>Choose between 5kg and 10kg munch boxes. <\/p><ul><li>5 Kg suits individuals or small families.<\/li><li>10 Kg is better for larger families or gatherings.<\/li><\/ul>",
+            "text": "<p>Choose between Small, Medium and Large munch boxes. <\/p><ul><li>Small suits individuals.<\/li><li>Medium suits individuals and families.<\/li><li>Large is better for larger families or gatherings.<\/li><\/ul>",
             "button_label": "",
             "button_link": ""
           }
