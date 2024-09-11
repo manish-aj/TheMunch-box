@@ -156,12 +156,6 @@
         "settings": {
         }
       },
-      "341186785192672687": {
-        "type": "shopify:\/\/apps\/seal-subscriptions\/blocks\/subscription-script-append\/13b25004-a140-4ab7-b5fe-29918f759699",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "6406956604159796213": {
         "type": "shopify:\/\/apps\/smartseo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
         "disabled": false,
@@ -189,6 +183,12 @@
       "13115749693783828969": {
         "type": "shopify:\/\/apps\/appstle-loyalty\/blocks\/appstle-review-helper\/1886c0f8-77b6-4a85-af11-b43cc17ae1c1",
         "disabled": false,
+        "settings": {
+        }
+      },
+      "341186785192672687": {
+        "type": "shopify:\/\/apps\/seal-subscriptions\/blocks\/subscription-script-append\/13b25004-a140-4ab7-b5fe-29918f759699",
+        "disabled": true,
         "settings": {
         }
       }

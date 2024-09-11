@@ -112,6 +112,12 @@
             "text": "<strong>Note 2: If the chosen sweet is Putharekulu, you will receive 10 pieces instead of 500gms and 20 pieces instead of 1kg.<\/strong>",
             "text_style": "body"
           }
+        },
+        "easy_subscriptions_easy_subscription_bundle_Q9HJ6W": {
+          "type": "shopify:\/\/apps\/easy-subscriptions\/blocks\/easy-subscription-bundle\/62ae0f16-e4ee-41c3-a62d-125b812e0b06",
+          "settings": {
+            "id": "MainContent"
+          }
         }
       },
       "block_order": [
@@ -129,7 +135,8 @@
         "multivariants_bulk_order_app_block_product_ACrqmw",
         "sku_9xQn7h",
         "text_ywMNYW",
-        "text_iNFrLh"
+        "text_iNFrLh",
+        "easy_subscriptions_easy_subscription_bundle_Q9HJ6W"
       ],
       "settings": {
         "enable_sticky_info": true,
