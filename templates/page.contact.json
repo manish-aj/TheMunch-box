@@ -166,6 +166,21 @@
         "padding_top": 28,
         "padding_bottom": 52
       }
+    },
+    "video_6AGyEn": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/design7.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -173,6 +188,7 @@
     "rich_text_CeJ6i7",
     "featured_collection_A98znJ",
     "rich_text_XeNdWR",
-    "rich_text_6MhKRP"
+    "rich_text_6MhKRP",
+    "video_6AGyEn"
   ]
 }
