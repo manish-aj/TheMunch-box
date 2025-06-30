@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -50,9 +50,7 @@
         "text_3FNhLp",
         "button_k7PxX9"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -96,7 +94,7 @@
         "heading_NDFWQe": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Coming soon:<\/strong><\/em> <em>A world of flavors with new Regional and International curated boxes!<\/em>",
+            "heading": "<em><strong>Coming soon:</strong></em> <em>A world of flavors with new Regional and International curated boxes!</em>",
             "heading_size": "h2"
           }
         },
@@ -138,14 +136,14 @@
         "text_MLUikz": {
           "type": "text",
           "settings": {
-            "text": "<h5><em><strong>For special requests and custom orders, please reach out to us using our contact form.<\/strong><\/em><\/h5>"
+            "text": "<h5><em><strong>For special requests and custom orders, please reach out to us using our contact form.</strong></em></h5>"
           }
         },
         "button_RbgVUW": {
           "type": "button",
           "settings": {
             "button_label": "Contact",
-            "button_link": "shopify:\/\/pages\/data-sale-opt-out",
+            "button_link": "shopify://pages/data-sharing-opt-out",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -173,8 +171,8 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/design-music8.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/design-music8.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
         "color_scheme": "",
